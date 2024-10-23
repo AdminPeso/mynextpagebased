@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Welcome to My Awesome Homepage</title>
+        <title>Welcome to My Awesomdhbhbdhbdhbe Homepage</title>
         <meta name="description" content="An enhanced Next.js homepage" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
